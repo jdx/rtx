@@ -1008,9 +1008,9 @@ checksum = "da692b8d1080ea3045efaab14434d40468c3d8657e42abddfffca87b428f4c1b"
 
 [[package]]
 name = "demand"
-version = "1.6.1"
+version = "1.6.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "58c47e28442b8cafbd1e05139fa18993058da13baf6c7110d47aac2e570169ce"
+checksum = "7d6c59d4d22c0837e599e2d8875fe2a1b16669a098a3530e7a23985c2d1387ab"
 dependencies = [
  "console",
  "fuzzy-matcher",
@@ -2649,7 +2649,7 @@ dependencies = [
 
 [[package]]
 name = "mise"
-version = "2025.1.14"
+version = "2025.1.15"
 dependencies = [
  "base64 0.22.1",
  "built",
