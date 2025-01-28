@@ -1,5 +1,24 @@
 # Changelog
 
+## [2025.1.16](https://github.com/jdx/mise/compare/v2025.1.15..v2025.1.16) - 2025-01-28
+
+### 🚀 Features
+
+- **(registry)** add duckdb by [@swfz](https://github.com/swfz) in [#4248](https://github.com/jdx/mise/pull/4248)
+
+### 🐛 Bug Fixes
+
+- Swift on Ubuntu 24.04 arm64 generates the incorrect download URL by [@spyder-ian](https://github.com/spyder-ian) in [#4235](https://github.com/jdx/mise/pull/4235)
+
+### Chore
+
+- make self_update optional by [@jdx](https://github.com/jdx) in [#4230](https://github.com/jdx/mise/pull/4230)
+- added some defaul reqwest features by [@jdx](https://github.com/jdx) in [#4232](https://github.com/jdx/mise/pull/4232)
+
+### New Contributors
+
+- @spyder-ian made their first contribution in [#4235](https://github.com/jdx/mise/pull/4235)
+
 ## [2025.1.15](https://github.com/jdx/mise/compare/v2025.1.14..v2025.1.15) - 2025-01-26
 
 ### 🚀 Features
