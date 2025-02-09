@@ -27,7 +27,9 @@ Note that calling `which node` gives us a real path to node, not a shim.
 
 It also shows that you can use `mise` to install and many other tools such as `jq`, `terraform`, or `go`.
 
-[![demo](./docs/tapes/demo.gif)](./docs/tapes/demo.mp4)
+<video style="max-width: 100%; height: auto;" controls="controls" src="https://github.com/user-attachments/assets/e64896d9-183d-4a8b-a8b2-7de0d1ed593f" />
+
+
 
 ## Quickstart
 

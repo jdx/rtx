@@ -2,7 +2,6 @@
 
 Output demo.gif
 Output demo.mp4
-Output demo.txt
 
 # vhs settings: https://github.com/charmbracelet/vhs#settings
 Set Shell "bash"
