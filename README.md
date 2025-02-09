@@ -137,6 +137,7 @@ run = "terraform apply -auto-approve"
 Run it with:
 
 ```sh-session
+mise install # install tools specified in mise.toml
 mise run deploy
 ```
 
