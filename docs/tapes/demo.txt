@@ -1,0 +1,2003 @@
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+>
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+>
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+>
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+>
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+>
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+>
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+>
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+>
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+> # For example, we will install terraform, jq, and go
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+> # For example, we will install terraform, jq, and go
+>
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+> # For example, we will install terraform, jq, and go
+>
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+> # For example, we will install terraform, jq, and go
+> clear
+
+────────────────────────────────────────────────────────────────────────────────
+> # A quick demo of mise for installing tools
+> # We will start by installing node@lts and make it the global default
+> mise use --global node@lts
+gpg: Signature made Tue Jan 21 16:56:21 2025 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@22.13.1 ✓ installed
+mise ~/.config/mise/config.toml tools: node@22.13.1
+> node -v
+v22.13.1
+> which node
+/root/.local/share/mise/installs/node/22.13.1/bin/node
+> # Note that we get back the path to the real node here, not a shim
+> # we can also install other tools with mise.
+> # For example, we will install terraform, jq, and go
+> clear
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+>
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+>
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+>
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+>
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+>
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+>
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+Tool       Version  Source                      Requested
+go         1.23.6   ~/.config/mise/config.toml  latest
+jq         1.7.1    ~/.config/mise/config.toml  latest
+node       22.13.1  ~/.config/mise/config.toml  lts
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+Tool       Version  Source                      Requested
+go         1.23.6   ~/.config/mise/config.toml  latest
+jq         1.7.1    ~/.config/mise/config.toml  latest
+node       22.13.1  ~/.config/mise/config.toml  lts
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+Tool       Version  Source                      Requested
+go         1.23.6   ~/.config/mise/config.toml  latest
+jq         1.7.1    ~/.config/mise/config.toml  latest
+node       22.13.1  ~/.config/mise/config.toml  lts
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+Tool       Version  Source                      Requested
+go         1.23.6   ~/.config/mise/config.toml  latest
+jq         1.7.1    ~/.config/mise/config.toml  latest
+node       22.13.1  ~/.config/mise/config.toml  lts
+────────────────────────────────────────────────────────────────────────────────
+> mise use -g terraform jq go
+mise terraform@1.10.5 ✓ installed
+mise jq@1.7.1 ✓ installed
+mise go@1.23.6 ✓ installed
+mise ~/.config/mise/config.toml tools: go@1.23.6, jq@1.7.1, terraform@1.10.5
+> terraform -v
+Terraform v1.10.5
+on linux_amd64
+> jq --version
+jq-1.7.1
+> go version
+go version go1.23.6 linux/amd64
+> mise ls
+Tool       Version  Source                      Requested
+go         1.23.6   ~/.config/mise/config.toml  latest
+jq         1.7.1    ~/.config/mise/config.toml  latest
+node       22.13.1  ~/.config/mise/config.toml  lts
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+mise node@21.7.3 download node-v21.7.3-linux-x64.tar.gz                 ⠁  0s
+
+
+
+
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+>
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+
+
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+>
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+>
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+>
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+>
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+>
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+>
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+>
+
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+>
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+>
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────
+> # Lets enter a project directory where we will set up node@21
+> cd myproj
+> mise use node@21
+gpg: Signature made Wed Apr 10 16:33:10 2024 UTC
+gpg:                using RSA key 890C08DB8579162FEE0DF9DB8BEAB4DFCF555EF4
+gpg: Good signature from "RafaelGSS <rafael.nunu@hotmail.com>" [expired]
+mise node@21.7.3 ✓ installed
+mise /data/myproj/mise.toml tools: node@21.7.3
+> node -v
+v21.7.3
+> # As expected, `node -v` is now v21.x
+> cat mise.toml
+[tools]
+node = "21"
+> # We will leave this directory. The node version will revert to the global
+LTS version
+> cd ..
+────────────────────────────────────────────────────────────────────────────────

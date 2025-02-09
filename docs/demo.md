@@ -1,7 +1,8 @@
-# 30 Second Demo
+# Demo
 
-The following shows using mise to install different versions
-of [node](https://nodejs.org).
+The following demo shows how to install and use `mise` to manage multiple versions of `node` on the same system.
 Note that calling `which node` gives us a real path to node, not a shim.
 
-[![demo](https://github.com/jdx/mise/blob/main/docs/demo.gif?raw=true)](https://github.com/jdx/mise/blob/main/docs/demo.gif)
+It also shows that you can use `mise` to install and many other tools such as `jq`, `terraform`, or `go`.
+
+[![demo](../tapes/demo.gif?raw=true)](https://github.com/jdx/mise/blob/main/docs/tapes/demo.mp4)
