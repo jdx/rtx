@@ -31,7 +31,7 @@ It also shows that you can use `mise` to install and many other tools such as `j
 
 ## Quickstart
 
-### Install mise 
+### Install mise
 
 See [Getting started](https://mise.jdx.dev/getting-started.html) for more options.
 
@@ -135,7 +135,7 @@ run = "terraform apply -auto-approve"
 Run it with:
 
 ```sh-session
-$ mise run deploy
+mise run deploy
 ```
 
 Find more examples in the [mise cookbook](https://mise.jdx.dev/mise-cookbook/).
